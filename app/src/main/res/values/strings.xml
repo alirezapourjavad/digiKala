@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android1</string>
+    <string name="info_digikala_com">info@digikala.com</string>
+    <string name="contact">تماس با دیجی کالا</string>
+    <string name="bug">گزارش مشکلات اپلیکیشن</string>
+    <string name="todo">TODO</string>
+    <string name="ver">تسخه 1.9.3</string>
+    <string name="dijiKala">دیجی کالا</string>
+    <string name="copyRight">کلیه حقوق نزد دیجی کالا محفوظ است</string>
+    <string name="condition">شرایط استفاده</string>
+    <string name="harim">حریم خصوصی</string>
+
+</resources>
